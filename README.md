@@ -1,4 +1,4 @@
-`# Action Recognition using MediaPipe and OpenCV
+# Action Recognition using MediaPipe and OpenCV
 
 ## Overview
 This project demonstrates action recognition using MediaPipe and OpenCV. It utilizes MediaPipe's Hand and Pose models to detect hand and body gestures, which are then classified into predefined actions using a machine learning model. The predicted actions include "three", "sign", "heart", "thanks", and "hello".
